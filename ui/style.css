@@ -3,6 +3,9 @@ body {
     background-color: lightgrey;
     margin-top: 75px;
 }
+.bgcolor {
+    bgcolor green
+}
 
 .center {
     text-align: center;
